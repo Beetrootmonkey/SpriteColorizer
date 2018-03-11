@@ -3,14 +3,10 @@
 ----------------------
 
 For all templates:
-  [ ] Load template
-  [ ] Load Layers
-  
-For all palettes:
-  [ ] Load palette
-  [ ] Create abstract continuous pallete based on loaded palette that just holds discrete values but can create colors that lie between to values based on distance to previous and next neighbour
+  [ ] Load layers
 
 For all palettes:
+  Load palette
   For all templates:
     For all layers:
       [ ] Read layer meta data (= the name?) which tells the tool wether to colorize the layer or not
