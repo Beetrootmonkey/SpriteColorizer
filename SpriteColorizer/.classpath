@@ -2,6 +2,15 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Users/I Am The Issue/Downloads/commons-io-2.6-bin/commons-io-2.6/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/I Am The Issue/Downloads/commons-io-2.6-bin/commons-io-2.6/commons-io-2.6.jar" sourcepath="C:/Users/I Am The Issue/Downloads/commons-io-2.6-bin/commons-io-2.6/commons-io-2.6-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/I%20Am%20The%20Issue/Downloads/commons-lang3-3.7-bin/commons-lang3-3.7/commons-lang3-3.7-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/I Am The Issue/Downloads/commons-lang3-3.7-bin/commons-lang3-3.7/commons-lang3-3.7.jar" sourcepath="C:/Users/I Am The Issue/Downloads/commons-lang3-3.7-bin/commons-lang3-3.7/commons-lang3-3.7-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/I%20Am%20The%20Issue/Downloads/commons-lang3-3.7-bin/commons-lang3-3.7/commons-lang3-3.7-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
