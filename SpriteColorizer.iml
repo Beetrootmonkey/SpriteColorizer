@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="file://C:/Users/I Am The Issue/Downloads/commons-io-2.6-bin/commons-io-2.6/commons-io-2.6.jar" />
+    <libelement value="file://C:/Users/I Am The Issue/Downloads/commons-lang3-3.7-bin/commons-lang3-3.7/commons-lang3-3.7.jar" />
+    <src_description expected_position="1">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="1" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="commons-io-2.6.jar">
+        <CLASSES>
+          <root url="file://C:/Users/I Am The Issue/Downloads/commons-io-2.6-bin/commons-io-2.6/commons-io-2.6.jar" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:file:/C:/Users/I%20Am%20The%20Issue/Downloads/commons-lang3-3.7-bin/commons-lang3-3.7/commons-lang3-3.7-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="file://C:/Users/I Am The Issue/Downloads/commons-io-2.6-bin/commons-io-2.6/commons-io-2.6-sources.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-lang3-3.7.jar">
+        <CLASSES>
+          <root url="file://C:/Users/I Am The Issue/Downloads/commons-lang3-3.7-bin/commons-lang3-3.7/commons-lang3-3.7.jar" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar:file:/C:/Users/I%20Am%20The%20Issue/Downloads/commons-lang3-3.7-bin/commons-lang3-3.7/commons-lang3-3.7-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="file://C:/Users/I Am The Issue/Downloads/commons-lang3-3.7-bin/commons-lang3-3.7/commons-lang3-3.7-sources.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Maven: commons-io:commons-io:1.3.2" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-lang3:3.10" level="project" />
+  </component>
+</module>

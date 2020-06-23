@@ -1,0 +1,16 @@
+       
+	   Plan:
+----------------------
+
+For all templates:
+  [ ] Load layers
+
+For all palettes:
+  Load palette
+  For all templates:
+    For all layers:
+      [ ] Read layer meta data (= the name?) which tells the tool wether to colorize the layer or not
+      [ ] If the layer should get colorized: Convert pixel HSV value (= brightness) to color in continuous palette (by finding the two colors on the palette where the pixel's brightness lies between, and
+	      use the relative distance to them to calculate the color which should get used in the colorized version)
+    [ ] Add all layers together to a single sprite
+	[ ] Save new sprite in palette-specific folder
