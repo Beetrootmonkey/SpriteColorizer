@@ -1,4 +1,4 @@
-package main.java.spritecolorizer;
+package main.java.com.beetrootmonkey.spritecolorizer;
 
 public class Main {
 

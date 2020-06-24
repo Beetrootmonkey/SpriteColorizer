@@ -1,4 +1,4 @@
-package main.java.spritecolorizer;
+package main.java.com.beetrootmonkey.spritecolorizer;
 
 import org.apache.commons.io.FileUtils;
 
@@ -6,7 +6,6 @@ import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
-import java.net.URISyntaxException;
 import java.net.URL;
 import java.util.HashMap;
 import java.util.Map;

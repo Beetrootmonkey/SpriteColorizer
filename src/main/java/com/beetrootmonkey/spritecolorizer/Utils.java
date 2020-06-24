@@ -1,4 +1,4 @@
-package main.java.spritecolorizer;
+package main.java.com.beetrootmonkey.spritecolorizer;
 
 import org.apache.commons.lang3.StringUtils;
 

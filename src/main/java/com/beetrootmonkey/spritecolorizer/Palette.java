@@ -1,4 +1,4 @@
-package main.java.spritecolorizer;
+package main.java.com.beetrootmonkey.spritecolorizer;
 
 import javax.imageio.ImageIO;
 import java.awt.*;
