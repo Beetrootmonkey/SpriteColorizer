@@ -43,11 +43,10 @@ public class Utils {
     //create a new buffer and draw two image into the new image
     BufferedImage newImage = new BufferedImage(width, height, BufferedImage.TYPE_INT_ARGB);
     Graphics2D g2 = newImage.createGraphics();
-//        g2.setPaint(Color.white);
-    Color oldColor = g2.getColor();
+    g2.setPaint(new Color(0, 0, 0, 0));
+    g2.setColor(new Color(0, 0, 0, 0));
     g2.fillRect(0, 0, width, height);
     //draw image
-    g2.setColor(oldColor);
     g2.drawImage(bottomImage, null, 0, 0);
     g2.drawImage(topImage, null, 0, 0);
     g2.dispose();
